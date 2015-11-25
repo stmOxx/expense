@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ubuntu">
+  <component name="PublishConfigData" serverName="ubuntu" uploadOnCheckin="a5bc330d-3e6c-48bc-b4a9-ddc5ab47ad51">
     <serverData>
       <paths name="ubuntu">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="ubuntu" />
   </component>
 </project>

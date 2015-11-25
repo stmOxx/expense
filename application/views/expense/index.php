@@ -6,7 +6,7 @@
         <td>Категория</td>
         <td align="center">Грн.</td>
         <td>План, грн</td>
-        <td>Остаток, грн</td>
+        <td>Остаток NEW TEXT, грн</td>
     </tr>
     <?php
     foreach ($data['cat'] as $cat) {
